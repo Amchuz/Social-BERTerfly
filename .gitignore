@@ -1,1 +1,6 @@
 dataset/
+
+.DS_store
+*.txt
+.env
+.sass-cache
